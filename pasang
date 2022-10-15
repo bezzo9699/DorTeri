@@ -1,0 +1,6 @@
+#!/usr/bin/sh
+cd $HOME/ss
+cp -rf crot $HOME
+cd $HOME
+chmod +x crot
+./crot
